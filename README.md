@@ -1,4 +1,4 @@
-# gp: KISS grep clone
+# gp: KISS grep clone [![Go](https://github.com/f01c33/gp/actions/workflows/go.yml/badge.svg)](https://github.com/f01c33/gp/actions/workflows/go.yml)
 
 ### usage:
 ```bash

@@ -1,4 +1,4 @@
-module grep
+module github.com/f01c33/gp
 
 go 1.22.3
 
