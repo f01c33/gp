@@ -2,7 +2,7 @@
 
 ### usage:
 ```bash
-go install github.com/f01c33/grep@latest
+go install github.com/f01c33/gp@latest
 ```
 
 Your $PATH should include $GOPATH/bin
